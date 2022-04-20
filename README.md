@@ -10,7 +10,7 @@ create/delete notes & display stored ones.
 
 ###### Run React dev server (http://localhost:3000)
 
-`npm start`
+`npm run start`
 
 ###### Run the JSON server (http://localhost:8000)
 
